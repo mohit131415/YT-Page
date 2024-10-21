@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://mohit131415.github.io/YT-Page",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
