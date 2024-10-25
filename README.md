@@ -60,22 +60,3 @@ After launching the application, you can:
 ## 🔍 Code Overview
 
 - `App.js`: Main component handling state management, data fetching, and video rendering
-- `VideoCard.js`: Reusable component for individual video displays
-- `CategoryFilter.js`: Component for category-based filtering
-- `utils.js`: Utility functions, including view count formatting
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/mohit131415/YT-Page/issues).
-
-## 📄 License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
-
-## 👏 Acknowledgements
-
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [YouTube API](https://developers.google.com/youtube/v3)
-- [Font Awesome](https://fontawesome.com) for icons
-
----
